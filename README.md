@@ -37,6 +37,8 @@ Syed Mustafa Siraj,
 Syed Mujtaba Ali, 
 Mahasweta Devi. <br/>
 
+![alt text](https://github.com/fnazia/Books-Scraping/blob/master/imgs/books_per_author_dist.png?raw=true)
+
 ### Conclusion:
 
 Scraping technique of this project needs to be improved because it failed to
