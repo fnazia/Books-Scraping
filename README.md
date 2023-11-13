@@ -37,7 +37,7 @@ Syed Mustafa Siraj,
 Syed Mujtaba Ali, 
 Mahasweta Devi. <br/>
 
-![alt text](https://github.com/fnazia/Books-Scraping/blob/master/imgs/books_per_author_dist.png?raw=true)
+![alt text](https://github.com/fnazia/Books-Scraping/blob/main/imgs/books_per_author_dist.png?raw=true)
 
 ### Conclusion:
 
